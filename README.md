@@ -1,1 +1,1 @@
-#Update readme file to create application to learn rails
+#Learning Rails to improve upon developing robust web applications and deepen Ruby comprehension
